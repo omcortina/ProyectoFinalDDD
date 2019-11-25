@@ -1,0 +1,11 @@
+C:\Users\OSCAR CORTINA\source\repos\ProyectoDDD\Aplicacion\bin\Debug\netcoreapp3.0\Aplicacion.deps.json
+C:\Users\OSCAR CORTINA\source\repos\ProyectoDDD\Aplicacion\bin\Debug\netcoreapp3.0\Aplicacion.dll
+C:\Users\OSCAR CORTINA\source\repos\ProyectoDDD\Aplicacion\obj\Debug\netcoreapp3.0\Aplicacion.csprojAssemblyReference.cache
+C:\Users\OSCAR CORTINA\source\repos\ProyectoDDD\Aplicacion\obj\Debug\netcoreapp3.0\Aplicacion.AssemblyInfoInputs.cache
+C:\Users\OSCAR CORTINA\source\repos\ProyectoDDD\Aplicacion\obj\Debug\netcoreapp3.0\Aplicacion.AssemblyInfo.cs
+C:\Users\OSCAR CORTINA\source\repos\ProyectoDDD\Aplicacion\bin\Debug\netcoreapp3.0\Aplicacion.pdb
+C:\Users\OSCAR CORTINA\source\repos\ProyectoDDD\Aplicacion\bin\Debug\netcoreapp3.0\Dominio.dll
+C:\Users\OSCAR CORTINA\source\repos\ProyectoDDD\Aplicacion\bin\Debug\netcoreapp3.0\Dominio.pdb
+C:\Users\OSCAR CORTINA\source\repos\ProyectoDDD\Aplicacion\obj\Debug\netcoreapp3.0\Aplicacion.csproj.CopyComplete
+C:\Users\OSCAR CORTINA\source\repos\ProyectoDDD\Aplicacion\obj\Debug\netcoreapp3.0\Aplicacion.dll
+C:\Users\OSCAR CORTINA\source\repos\ProyectoDDD\Aplicacion\obj\Debug\netcoreapp3.0\Aplicacion.pdb

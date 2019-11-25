@@ -1,0 +1,8 @@
+C:\Users\OSCAR CORTINA\source\repos\ProyectoDDD\Dominio\bin\Debug\netcoreapp3.0\Dominio.deps.json
+C:\Users\OSCAR CORTINA\source\repos\ProyectoDDD\Dominio\bin\Debug\netcoreapp3.0\Dominio.dll
+C:\Users\OSCAR CORTINA\source\repos\ProyectoDDD\Dominio\obj\Debug\netcoreapp3.0\Dominio.csprojAssemblyReference.cache
+C:\Users\OSCAR CORTINA\source\repos\ProyectoDDD\Dominio\obj\Debug\netcoreapp3.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\OSCAR CORTINA\source\repos\ProyectoDDD\Dominio\obj\Debug\netcoreapp3.0\Dominio.AssemblyInfo.cs
+C:\Users\OSCAR CORTINA\source\repos\ProyectoDDD\Dominio\bin\Debug\netcoreapp3.0\Dominio.pdb
+C:\Users\OSCAR CORTINA\source\repos\ProyectoDDD\Dominio\obj\Debug\netcoreapp3.0\Dominio.dll
+C:\Users\OSCAR CORTINA\source\repos\ProyectoDDD\Dominio\obj\Debug\netcoreapp3.0\Dominio.pdb

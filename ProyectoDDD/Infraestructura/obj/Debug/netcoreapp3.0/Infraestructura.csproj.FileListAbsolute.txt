@@ -1,0 +1,13 @@
+C:\Users\OSCAR CORTINA\source\repos\ProyectoDDD\Infraestructura\bin\Debug\netcoreapp3.0\Infraestructura.deps.json
+C:\Users\OSCAR CORTINA\source\repos\ProyectoDDD\Infraestructura\bin\Debug\netcoreapp3.0\Infraestructura.dll
+C:\Users\OSCAR CORTINA\source\repos\ProyectoDDD\Infraestructura\obj\Debug\netcoreapp3.0\Infraestructura.csprojAssemblyReference.cache
+C:\Users\OSCAR CORTINA\source\repos\ProyectoDDD\Infraestructura\obj\Debug\netcoreapp3.0\Infraestructura.AssemblyInfoInputs.cache
+C:\Users\OSCAR CORTINA\source\repos\ProyectoDDD\Infraestructura\obj\Debug\netcoreapp3.0\Infraestructura.AssemblyInfo.cs
+C:\Users\OSCAR CORTINA\source\repos\ProyectoDDD\Infraestructura\bin\Debug\netcoreapp3.0\Infraestructura.runtimeconfig.json
+C:\Users\OSCAR CORTINA\source\repos\ProyectoDDD\Infraestructura\bin\Debug\netcoreapp3.0\Infraestructura.runtimeconfig.dev.json
+C:\Users\OSCAR CORTINA\source\repos\ProyectoDDD\Infraestructura\bin\Debug\netcoreapp3.0\Infraestructura.pdb
+C:\Users\OSCAR CORTINA\source\repos\ProyectoDDD\Infraestructura\bin\Debug\netcoreapp3.0\Dominio.dll
+C:\Users\OSCAR CORTINA\source\repos\ProyectoDDD\Infraestructura\bin\Debug\netcoreapp3.0\Dominio.pdb
+C:\Users\OSCAR CORTINA\source\repos\ProyectoDDD\Infraestructura\obj\Debug\netcoreapp3.0\Infraestructura.csproj.CopyComplete
+C:\Users\OSCAR CORTINA\source\repos\ProyectoDDD\Infraestructura\obj\Debug\netcoreapp3.0\Infraestructura.dll
+C:\Users\OSCAR CORTINA\source\repos\ProyectoDDD\Infraestructura\obj\Debug\netcoreapp3.0\Infraestructura.pdb
